@@ -12,5 +12,5 @@ void main(void){
     printf("5 - Editar Novas Palavras\n");
     printf("6 - Excluir Palavras\n");
     printf("7 - Sobre o Programa");
-    
+    printf();
 }
