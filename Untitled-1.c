@@ -12,5 +12,10 @@ void main(void){
     printf("5 - Editar Novas Palavras\n");
     printf("6 - Excluir Palavras\n");
     printf("7 - Sobre o Programa");
-    printf();
+}
+
+void sobre(void){
+    printf("Autor do Programa: Maicon Douglas\n");
+    printf("Email do Autor: pes.m.douglas.630@gmail.com\n");
+    printf("Facebook do Autor: facebook.com/maicondouglas5\n");
 }
